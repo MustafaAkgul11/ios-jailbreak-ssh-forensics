@@ -139,7 +139,7 @@ Dolayısıyla iTunes, SSH bağlantısına **dolaylı altyapı desteği sağlamak
 
 ### iProxy Port Yönlendirme
 
-iproxy 22** **
+iproxy 2222 22
 
 
 ![iProxy Connection](screenshots/iproxyconnection.jpg)
